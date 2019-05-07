@@ -1,0 +1,27 @@
+{
+  "name": "boostratWM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -c-1"
+    //"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/durandaniel/boostratWM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/durandaniel/boostratWM/issues"
+  },
+  "homepage": "https://github.com/durandaniel/boostratWM#readme",
+  "devDependencies": {
+    "bootstrap": "4.1.1",
+    "http-server": "0.11.1",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.3"
+  }
+}
